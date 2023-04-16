@@ -1,4 +1,4 @@
-@media only screen and (max-width: 480px) {
+/* @media only screen and (max-width: 480px) {
 
   #Adiv {order:1;}
   
@@ -29,44 +29,40 @@
   #Cdiv {order:2;}
   
   #Ddiv {order:3;}
- 
-  
-}
+} */
 
 .container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  
-
 }
 
 #Adiv {
   background-color:#FD8787;
   border:solid;
   margin: 50px;
-  padding:25px;
+  padding:20px;
 }
 
 #Bdiv {
   background-color:#CCE5FF;
   border:solid;
   margin: 50px;
-  padding:25px;
+  padding:20px;
 }
 
 #Cdiv {
   background-color:#CCFFE5;
   border:solid;
   margin: 50px;
-  padding:25px;
+  padding:20px;
 }
 
 #Ddiv {
   background-color:#FFFF99;
   border:solid;
   margin: 50px;
-  padding:25px;
+  padding:20px;
 }
 
 li {
